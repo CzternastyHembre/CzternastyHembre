@@ -2,7 +2,7 @@
 - 🌱 I’m currently studying bachelor in computer science at NTNU Trondheim (3. year)
 - 🔭 I’m currently working as a student assistant for TDT4120 - Algorithms and Data Structures
 - ⚡ My hobbies are: Programing | Shooting | Fotball (soccer) | Cooking
-- 🖥️ Java | TypeScript | JavaScript | Python | SQL
+- 🖥️ Java | C++ | Typescript | Python | SQL | Rust | React | Expo Go | Vue | Golang
 
 <!--
 **CzternastyHembre/CzternastyHembre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
