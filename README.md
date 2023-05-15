@@ -1,9 +1,9 @@
+<!--
 ### Hi there, my name is Mattis C. Hembre 👋
 - 🌱 I’m currently studying bachelor in computer science at NTNU Trondheim (3. year)
 - ⚡ My hobbies are: Programing | Shooting | Fotball (soccer) | Cooking
 - 🖥️ Java | C++ | Typescript | Python | SQL | Rust | React | Expo Go | Vue | Golang
 
-<!--
 - 🔭 I’m currently working as a student assistant for TDT4120 - Algorithms and Data Structures
 
 **CzternastyHembre/CzternastyHembre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
